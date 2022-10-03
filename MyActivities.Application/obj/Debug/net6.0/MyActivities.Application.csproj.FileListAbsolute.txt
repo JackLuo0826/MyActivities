@@ -1,0 +1,17 @@
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Application.deps.json
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Application.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Application.pdb
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Domain.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Persistent.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Domain.pdb
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\bin\Debug\net6.0\MyActivities.Persistent.pdb
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.csproj.AssemblyReference.cache
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.AssemblyInfoInputs.cache
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.AssemblyInfo.cs
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.csproj.CoreCompileInputs.cache
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.csproj.CopyComplete
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\refint\MyActivities.Application.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\MyActivities.Application.pdb
+C:\Users\jackl\source\repos\MyActivities\MyActivities.Application\obj\Debug\net6.0\ref\MyActivities.Application.dll
