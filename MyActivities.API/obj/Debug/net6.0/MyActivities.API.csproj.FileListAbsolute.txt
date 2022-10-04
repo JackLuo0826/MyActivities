@@ -56,3 +56,5 @@ C:\Users\jackl\source\repos\MyActivities\MyActivities.API\obj\Debug\net6.0\refin
 C:\Users\jackl\source\repos\MyActivities\MyActivities.API\obj\Debug\net6.0\MyActivities.API.pdb
 C:\Users\jackl\source\repos\MyActivities\MyActivities.API\obj\Debug\net6.0\MyActivities.API.genruntimeconfig.cache
 C:\Users\jackl\source\repos\MyActivities\MyActivities.API\obj\Debug\net6.0\ref\MyActivities.API.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jackl\source\repos\MyActivities\MyActivities.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
