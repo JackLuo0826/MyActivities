@@ -9,11 +9,11 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using MyActivities.Persistent;
 
-namespace API
+namespace MyActivities.API
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
 
@@ -23,7 +23,8 @@ namespace API
             try
             {
                 var MyActivitiesDataContext = services.GetRequiredService<DataContext>();
-                MyActivitiesDataContext.Database.Migrate();
+                await MyActivitiesDataContext.Database.MigrateAsync();
+                await Seed.PopulateData(MyActivitiesDataContext);
             }
             catch (Exception ex)
             {
@@ -31,7 +32,7 @@ namespace API
                 logger.LogError(ex, "An exception has occured during database migration.");
             }
 
-            host.Run();
+            await host.RunAsync();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

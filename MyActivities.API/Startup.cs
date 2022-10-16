@@ -14,7 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using MyActivities.Persistent;
 
-namespace API
+namespace MyActivities.API
 {
     public class Startup
     {
